@@ -23,3 +23,4 @@ The system allows users to:
 - Akine Wilfred
 
 - ## User Interface Improvements
+- ## Search Functionality
