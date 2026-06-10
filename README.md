@@ -3,7 +3,7 @@ The system allows users to:
 - Add tasks
 - View tasks
 - Search tasks
-- Mark tasks as completed
+- Mark tasks as completed 
 
 ## Installation
 
@@ -21,3 +21,5 @@ The system allows users to:
 ## Contributors
 
 - Akine Wilfred
+
+- ## User Interface Improvements
