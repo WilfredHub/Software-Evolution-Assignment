@@ -6,7 +6,7 @@ def add_task():
     print("Task added.")
 
 def view_tasks():
-    for task in tasks:
+    for task in tasks: 
         print(task)
 
 while True: 
