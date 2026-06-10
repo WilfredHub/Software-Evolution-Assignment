@@ -20,4 +20,4 @@ The system allows users to:
 
 ## Contributors
 
-- Your Name
+- Akine Wilfred
