@@ -9,7 +9,7 @@ def view_tasks():
     for task in tasks:
         print(task)
 
-while True:
+while True: 
     print("\n1. Add Task")
     print("2. View Tasks")
     print("3. Exit") 
