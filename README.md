@@ -8,7 +8,7 @@ The system allows users to:
 ## Installation
 
 1. Download project files.
-2. Open in your preferred IDE.
+2. Open in your preferred IDE. 
 3. Run the application.
 
 ## Usage
