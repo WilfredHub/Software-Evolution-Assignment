@@ -12,7 +12,7 @@ def view_tasks():
 while True:
     print("\n1. Add Task")
     print("2. View Tasks")
-    print("3. Exit")
+    print("3. Exit") 
 
     choice = input("Choose option: ")
 
